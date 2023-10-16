@@ -7,11 +7,19 @@
 ## Sobre mi
 
 - ⭐ Desarrollador web ⭐ 
-- 📲 Mobile responsive
-
+<h2 class="fw-300">
+                              Hola, Soy Manuel Tovar,
+                              <strong>programador web, </strong>Empecé mi
+                              carrera como <strong>front-end</strong> después de
+                              estudiar por mi cuenta y tomar algunos cursos en
+                              línea para mejorar mis habilidades. Desde
+                              entonces, he trabajado en varios proyectos
+                              interesantes que me han permitido aprender y
+                              mejorar cada día más.
+                            </h2>
 <br>
 
-## Ultimos royectos
+## Ultimos Proyectos
 <table>
 <tr>
 <td width="50%">
