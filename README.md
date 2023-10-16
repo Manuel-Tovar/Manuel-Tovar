@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://manueltovar.site">Manuel Tovar</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://www.linkedin.com/in/manuel-tovar-x/overlay/background-image/">
 
 
 ## Sobre mi
