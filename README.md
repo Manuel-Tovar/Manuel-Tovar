@@ -6,8 +6,7 @@
 
 ## Sobre mi
 
-- 
-Hola, Soy Manuel Tovar,
+- Hola, Soy Manuel Tovar,
 <strong> ⭐ programador web,⭐ </strong>
 Empecé mi carrera como <strong>front-end</strong>
 después de estudiar por mi cuenta y
