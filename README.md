@@ -8,13 +8,8 @@
 
 - Hola, Soy Manuel Tovar,
 <strong> ⭐ programador web,⭐ </strong>
-Empecé mi carrera como <strong>front-end</strong>
-después de estudiar por mi cuenta y
- tomar algunos cursos en
-línea para mejorar mis habilidades. Desde
- entonces, he trabajado en varios proyectos
-interesantes que me han permitido aprender y
- mejorar cada día más.
+apasionado, con dos años de experiencia en la creación de sitios web intuitivos y atractivos para el usuario final. Con habilidades en HTML, CSS, JavaScript y frameworks como React, disfruto resolviendo problemas y aprendiendo nuevas tecnologías.
+Me apasiona la creación de experiencias de usuario únicas y efectivas, y siempre estoy en busca de nuevos retos que me ayuden a mejorar mis habilidades y crecer en mi carrera.
 
 <br>
 
